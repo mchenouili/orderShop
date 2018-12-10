@@ -1,0 +1,62 @@
+= Create a Product
+
+This is an example to create a product
+
+.request
+include::{snippets}/create_product/http-request.adoc[]
+
+.response
+include::{snippets}/create_product/http-response.adoc[]
+
+= Update a product
+
+This is an example to update a product
+
+.request
+include::{snippets}/update_product/http-request.adoc[]
+
+.response
+include::{snippets}/update_product/http-response.adoc[]
+
+= List Products
+
+This is an example to list products
+
+.request
+include::{snippets}/list_product/http-request.adoc[]
+
+.response
+include::{snippets}/list_product/http-response.adoc[]
+
+
+= Create an Order
+
+This is an example to create an order
+
+.request
+include::{snippets}/create_order/http-request.adoc[]
+
+.response
+include::{snippets}/create_order/http-response.adoc[]
+
+
+= List orders
+
+This is an example to list orders
+
+.request
+include::{snippets}/list_order/http-request.adoc[]
+
+.response
+include::{snippets}/list_order/http-response.adoc[]
+
+= List orders between Dates
+
+This is an example to list orders between dates
+
+.request
+include::{snippets}/list_order_between/http-request.adoc[]
+
+.response
+include::{snippets}/list_order_between/http-response.adoc[]
+
