@@ -7,7 +7,7 @@
 <h1>Introduction</h1>
 
 <div class="paragraph">
-<p>This is API for creating a product and an order. </p>
+<p>This is an API for creating a product and an order. </p>
 <p>Apart from some basic layers (controller/assembler/service/converter/repositories/model) for a good separation of concerns and room for improvement. 
 Repositories have been decoupled from controllers and intenal model is also decoupled from interface model (exposed as json in this case) to allow room for improvement. </p>
 
